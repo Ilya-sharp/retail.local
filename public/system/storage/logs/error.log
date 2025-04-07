@@ -216,3 +216,279 @@
 2025-04-07 20:31:14 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
 2025-04-07 20:31:14 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 344
 2025-04-07 20:31:14 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:51:25 - PHP Warning:  Undefined array key 1 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\lib\history\Order.php on line 274
+2025-04-07 20:51:25 - PHP Warning:  Trying to access array offset on value of type null in D:\OSPanel\home\retail.local\public\system\library\retailcrm\lib\history\Order.php on line 274
+2025-04-07 20:51:25 - PHP Warning:  Undefined array key "sub_total_sort_order" in D:\OSPanel\home\retail.local\public\system\library\retailcrm\lib\history\Order.php on line 307
+2025-04-07 20:51:25 - PHP Warning:  Trying to access array offset on value of type bool in D:\OSPanel\home\retail.local\public\catalog\controller\extension\total\voucher.php on line 54
+2025-04-07 20:51:25 - PHP Warning:  Undefined array key "custom_field" in D:\OSPanel\home\retail.local\public\system\library\retailcrm\lib\repository\DataRepository.php on line 40
+2025-04-07 20:51:25 - PHP Warning:  Undefined array key 1 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\lib\history\Order.php on line 274
+2025-04-07 20:51:25 - PHP Warning:  Trying to access array offset on value of type null in D:\OSPanel\home\retail.local\public\system\library\retailcrm\lib\history\Order.php on line 274
+2025-04-07 20:51:25 - PHP Warning:  Undefined array key "sub_total_sort_order" in D:\OSPanel\home\retail.local\public\system\library\retailcrm\lib\history\Order.php on line 307
+2025-04-07 20:51:25 - PHP Warning:  Undefined array key 1 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\lib\history\Order.php on line 274
+2025-04-07 20:51:25 - PHP Warning:  Trying to access array offset on value of type null in D:\OSPanel\home\retail.local\public\system\library\retailcrm\lib\history\Order.php on line 274
+2025-04-07 20:51:25 - PHP Warning:  Undefined array key "sub_total_sort_order" in D:\OSPanel\home\retail.local\public\system\library\retailcrm\lib\history\Order.php on line 307
+2025-04-07 21:03:44 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'language_id' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 152
+2025-04-07 21:03:44 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'language_id' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 152
+2025-04-07 21:03:44 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'language_id' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 152
+2025-04-07 21:04:22 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'invoice_prefix' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:04:22 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'invoice_prefix' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:04:22 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'invoice_prefix' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:04:22 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'invoice_prefix' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:23:10 - PHP Warning:  Undefined array key "payment" in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 239
+2025-04-07 21:23:10 - PHP Warning:  Trying to access array offset on value of type null in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 239
+2025-04-07 21:23:10 - PHP Warning:  Undefined array key "contact" in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 240
+2025-04-07 21:23:10 - PHP Warning:  Trying to access array offset on value of type null in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 240
+2025-04-07 21:23:10 - PHP Warning:  Trying to access array offset on value of type null in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 240
+2025-04-07 21:23:10 - PHP Warning:  Trying to access array offset on value of type null in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 240
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $customer_group_id in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $firstname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $lastname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $email in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $telephone in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $custom_field in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $firstname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $lastname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $firstname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 271
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $lastname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 271
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $custom_field in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 272
+2025-04-07 21:23:10 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '&quot;neobkhodim_predvaritelnyi_sozvon&quot;:false}, 1, 75,'storename', 107, , , ,
+      ' at line 12 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 277
+2025-04-07 21:23:10 - PHP Warning:  Undefined array key "payment" in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 239
+2025-04-07 21:23:10 - PHP Warning:  Trying to access array offset on value of type null in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 239
+2025-04-07 21:23:10 - PHP Warning:  Undefined array key "contact" in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 240
+2025-04-07 21:23:10 - PHP Warning:  Trying to access array offset on value of type null in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 240
+2025-04-07 21:23:10 - PHP Warning:  Trying to access array offset on value of type null in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 240
+2025-04-07 21:23:10 - PHP Warning:  Trying to access array offset on value of type null in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 240
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $customer_group_id in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $firstname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $lastname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $email in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $telephone in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $custom_field in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $firstname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $lastname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $firstname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 271
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $lastname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 271
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $custom_field in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 272
+2025-04-07 21:23:10 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '&quot;neobkhodim_predvaritelnyi_sozvon&quot;:false}, 1, 74,'storename', 107, , , ,
+      ' at line 12 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 277
+2025-04-07 21:23:10 - PHP Warning:  Undefined array key "payment" in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 239
+2025-04-07 21:23:10 - PHP Warning:  Trying to access array offset on value of type null in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 239
+2025-04-07 21:23:10 - PHP Warning:  Undefined array key "contact" in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 240
+2025-04-07 21:23:10 - PHP Warning:  Trying to access array offset on value of type null in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 240
+2025-04-07 21:23:10 - PHP Warning:  Trying to access array offset on value of type null in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 240
+2025-04-07 21:23:10 - PHP Warning:  Trying to access array offset on value of type null in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 240
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $customer_group_id in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $firstname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $lastname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $email in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $telephone in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $custom_field in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $firstname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $lastname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $firstname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 271
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $lastname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 271
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $custom_field in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 272
+2025-04-07 21:23:10 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '&quot;neobkhodim_predvaritelnyi_sozvon&quot;:false}, 1, 73,'storename', 107, , , ,
+      ' at line 12 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 277
+2025-04-07 21:23:10 - PHP Warning:  Undefined array key "payment" in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 239
+2025-04-07 21:23:10 - PHP Warning:  Trying to access array offset on value of type null in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 239
+2025-04-07 21:23:10 - PHP Warning:  Undefined array key "contact" in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 240
+2025-04-07 21:23:10 - PHP Warning:  Trying to access array offset on value of type null in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 240
+2025-04-07 21:23:10 - PHP Warning:  Trying to access array offset on value of type null in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 240
+2025-04-07 21:23:10 - PHP Warning:  Trying to access array offset on value of type null in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 240
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $customer_group_id in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $firstname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $lastname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $email in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $telephone in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $custom_field in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $firstname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $lastname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $firstname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 271
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $lastname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 271
+2025-04-07 21:23:10 - PHP Warning:  Undefined variable $custom_field in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 272
+2025-04-07 21:23:10 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '&quot;trek_nomer&quot;:&quot;2254785&quot;}, 1, 1,'storename', 106, , , ,
+                        ,' at line 12 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 277
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $customer_group_id in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 268
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $firstname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 268
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $lastname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 268
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $email in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $telephone in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $custom_field in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $firstname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $lastname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $payment_city in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $payment_city in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $country in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $payment_city in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $firstname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $lastname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $payment_city in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $payment_city in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $country in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 271
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $payment_city in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 271
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $custom_field in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 271
+2025-04-07 21:24:00 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '&quot;neobkhodim_predvaritelnyi_sozvon&quot;:false}, 1, 75,'storename', 107, , , ,
+      ' at line 12 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 276
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $customer_group_id in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 268
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $firstname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 268
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $lastname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 268
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $email in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $telephone in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $custom_field in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $firstname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $lastname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $payment_city in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $payment_city in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $country in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $payment_city in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $firstname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $lastname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $payment_city in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $payment_city in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $country in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 271
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $payment_city in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 271
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $custom_field in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 271
+2025-04-07 21:24:00 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '&quot;neobkhodim_predvaritelnyi_sozvon&quot;:false}, 1, 74,'storename', 107, , , ,
+      ' at line 12 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 276
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $customer_group_id in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 268
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $firstname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 268
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $lastname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 268
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $email in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $telephone in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $custom_field in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $firstname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $lastname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $payment_city in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $payment_city in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $country in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $payment_city in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $firstname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $lastname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $payment_city in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $payment_city in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $country in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 271
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $payment_city in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 271
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $custom_field in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 271
+2025-04-07 21:24:00 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '&quot;neobkhodim_predvaritelnyi_sozvon&quot;:false}, 1, 73,'storename', 107, , , ,
+      ' at line 12 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 276
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $customer_group_id in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 268
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $firstname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 268
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $lastname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 268
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $email in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $telephone in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $custom_field in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $firstname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $lastname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $payment_city in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $payment_city in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 269
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $country in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $payment_city in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $firstname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $lastname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $payment_city in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $payment_city in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 270
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $country in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 271
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $payment_city in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 271
+2025-04-07 21:24:00 - PHP Warning:  Undefined variable $custom_field in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 271
+2025-04-07 21:24:00 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '&quot;trek_nomer&quot;:&quot;2254785&quot;}, 1, 1,'storename', 106, , , ,
+                        ,' at line 12 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 276
+2025-04-07 21:28:12 - PHP Warning:  Undefined array key "telephone" in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 242
+2025-04-07 21:28:12 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '&quot;neobkhodim_predvaritelnyi_sozvon&quot;:false}, 1, 75,'storename', 107, 1, asd, asd,' at line 12 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 280
+2025-04-07 21:28:12 - PHP Warning:  Undefined array key "telephone" in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 242
+2025-04-07 21:28:12 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '&quot;neobkhodim_predvaritelnyi_sozvon&quot;:false}, 1, 74,'storename', 107, 1, asd, asd,' at line 12 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 280
+2025-04-07 21:28:12 - PHP Warning:  Undefined array key "telephone" in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 242
+2025-04-07 21:28:12 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '&quot;neobkhodim_predvaritelnyi_sozvon&quot;:false}, 1, 73,'storename', 107, 1, asd, asd,' at line 12 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 280
+2025-04-07 21:28:12 - PHP Warning:  Undefined array key "telephone" in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 242
+2025-04-07 21:28:12 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '&quot;trek_nomer&quot;:&quot;2254785&quot;}, 1, 1,'storename', 106, 1, Егор, Пупкин,
+    ' at line 12 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 280
+2025-04-07 21:29:29 - PHP Warning:  Undefined array key "telephone" in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 242
+2025-04-07 21:29:29 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '&quot;neobkhodim_predvaritelnyi_sozvon&quot;:false}, 1, 75,'storename', 107, 1, asd, asd,' at line 12 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 280
+2025-04-07 21:29:29 - PHP Warning:  Undefined array key "telephone" in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 242
+2025-04-07 21:29:29 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '&quot;neobkhodim_predvaritelnyi_sozvon&quot;:false}, 1, 74,'storename', 107, 1, asd, asd,' at line 12 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 280
+2025-04-07 21:29:29 - PHP Warning:  Undefined array key "telephone" in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 242
+2025-04-07 21:29:29 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '&quot;neobkhodim_predvaritelnyi_sozvon&quot;:false}, 1, 73,'storename', 107, 1, asd, asd,' at line 12 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 280
+2025-04-07 21:29:29 - PHP Warning:  Undefined array key "telephone" in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 242
+2025-04-07 21:29:29 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '&quot;trek_nomer&quot;:&quot;2254785&quot;}, 1, 1,'storename', 106, 1, Егор, Пупкин,
+    ' at line 12 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 280
+2025-04-07 21:30:45 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'language_id' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 153
+2025-04-07 21:30:45 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'language_id' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 153
+2025-04-07 21:30:45 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'language_id' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 153
+2025-04-07 21:30:45 - PHP Warning:  Undefined array key "telephone" in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 242
+2025-04-07 21:30:45 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '&quot;neobkhodim_predvaritelnyi_sozvon&quot;:false}, 1, 75,'storename', 107, 1, asd, asd,' at line 12 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 280
+2025-04-07 21:30:45 - PHP Warning:  Undefined array key "telephone" in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 242
+2025-04-07 21:30:45 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '&quot;neobkhodim_predvaritelnyi_sozvon&quot;:false}, 1, 74,'storename', 107, 1, asd, asd,' at line 12 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 280
+2025-04-07 21:30:45 - PHP Warning:  Undefined array key "telephone" in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 242
+2025-04-07 21:30:45 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '&quot;neobkhodim_predvaritelnyi_sozvon&quot;:false}, 1, 73,'storename', 107, 1, asd, asd,' at line 12 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 280
+2025-04-07 21:30:45 - PHP Warning:  Undefined array key "telephone" in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 242
+2025-04-07 21:30:45 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '&quot;trek_nomer&quot;:&quot;2254785&quot;}, 1, 1,'storename', 106, 1, Егор, Пупкин,
+    ' at line 12 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 280
+2025-04-07 21:36:02 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 15 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 156
+2025-04-07 21:36:02 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 15 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 156
+2025-04-07 21:36:02 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 15 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 156
+2025-04-07 21:36:02 - PHP Warning:  Undefined array key "telephone" in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 245
+2025-04-07 21:36:02 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '&quot;neobkhodim_predvaritelnyi_sozvon&quot;:false}, 1, 75,'storename', 107, 1, asd, asd,' at line 12 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 283
+2025-04-07 21:36:02 - PHP Warning:  Undefined array key "telephone" in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 245
+2025-04-07 21:36:02 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '&quot;neobkhodim_predvaritelnyi_sozvon&quot;:false}, 1, 74,'storename', 107, 1, asd, asd,' at line 12 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 283
+2025-04-07 21:36:02 - PHP Warning:  Undefined array key "telephone" in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 245
+2025-04-07 21:36:02 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '&quot;neobkhodim_predvaritelnyi_sozvon&quot;:false}, 1, 73,'storename', 107, 1, asd, asd,' at line 12 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 283
+2025-04-07 21:36:02 - PHP Warning:  Undefined array key "telephone" in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 245
+2025-04-07 21:36:02 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '&quot;trek_nomer&quot;:&quot;2254785&quot;}, 1, 1,'storename', 106, 1, Егор, Пупкин,
+    ' at line 12 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 283
+2025-04-07 21:36:30 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 15 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 156
+2025-04-07 21:36:30 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 15 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 156
+2025-04-07 21:36:30 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 15 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 156
+2025-04-07 21:37:50 - PHP Warning:  mysqli::query(): (21S01/1136): Column count doesn't match value count at row 1 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 156
+2025-04-07 21:37:50 - PHP Warning:  mysqli::query(): (21S01/1136): Column count doesn't match value count at row 1 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 156
+2025-04-07 21:37:50 - PHP Warning:  mysqli::query(): (21S01/1136): Column count doesn't match value count at row 1 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 156
+2025-04-07 21:39:16 - PHP Warning:  mysqli::query(): (21S01/1136): Column count doesn't match value count at row 1 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 156
+2025-04-07 21:39:16 - PHP Warning:  mysqli::query(): (21S01/1136): Column count doesn't match value count at row 1 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 156
+2025-04-07 21:39:16 - PHP Warning:  mysqli::query(): (21S01/1136): Column count doesn't match value count at row 1 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 156
+2025-04-07 21:47:27 - PHP Warning:  mysqli::query(): (42S22/1054): Unknown column 'approved' in 'field list' in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 175
+2025-04-07 21:47:27 - PHP Warning:  mysqli::query(): (42S22/1054): Unknown column 'approved' in 'field list' in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 175
+2025-04-07 21:47:27 - PHP Warning:  mysqli::query(): (42S22/1054): Unknown column 'approved' in 'field list' in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 175
+2025-04-07 21:49:02 - PHP Warning:  mysqli::query(): (22001/1406): Data too long for column 'password' at row 1 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 175
+2025-04-07 21:49:02 - PHP Warning:  mysqli::query(): (22001/1406): Data too long for column 'password' at row 1 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 175
+2025-04-07 21:49:02 - PHP Warning:  mysqli::query(): (22001/1406): Data too long for column 'password' at row 1 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 175
+2025-04-07 21:49:31 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'code' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 175
+2025-04-07 21:49:31 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'code' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 175
+2025-04-07 21:49:31 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'code' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 175
+2025-04-07 21:50:44 - PHP Warning:  Undefined variable $external_id in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 253
+2025-04-07 21:50:44 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 253
+2025-04-07 21:50:44 - PHP Warning:  Attempt to read property "num_rows" on bool in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 255
+2025-04-07 21:50:44 - PHP Warning:  Undefined variable $external_id in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 285
+2025-04-07 21:50:44 - PHP Warning:  Undefined variable $customer_id in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 286
+2025-04-07 21:50:44 - PHP Warning:  Undefined variable $firstname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 287
+2025-04-07 21:50:44 - PHP Unknown:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 287
+2025-04-07 21:50:44 - PHP Warning:  Undefined variable $lastname in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 288
+2025-04-07 21:50:44 - PHP Unknown:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 288
+2025-04-07 21:50:44 - PHP Warning:  Undefined variable $email in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 289
+2025-04-07 21:50:44 - PHP Unknown:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 289
+2025-04-07 21:50:44 - PHP Warning:  Undefined variable $telephone in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 290
+2025-04-07 21:50:44 - PHP Unknown:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 290
+2025-04-07 21:50:44 - PHP Warning:  Undefined variable $custom_fields in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 291
+2025-04-07 21:50:44 - PHP Unknown:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 291
+2025-04-07 21:50:44 - PHP Warning:  Undefined variable $total_sum in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 292
+2025-04-07 21:50:44 - PHP Warning:  Undefined variable $status in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 293
+2025-04-07 21:50:44 - PHP Warning:  Undefined variable $created_at in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 298
+2025-04-07 21:53:12 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'invoice_prefix' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 320
+2025-04-07 21:53:12 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'invoice_prefix' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 320
+2025-04-07 21:53:12 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'invoice_prefix' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 320
+2025-04-07 21:53:12 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'invoice_prefix' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 320
+2025-04-07 21:54:12 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'store_name' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 322
+2025-04-07 21:54:12 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'store_name' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 322
+2025-04-07 21:54:12 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'store_name' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 322
+2025-04-07 21:54:12 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'store_name' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 322
+2025-04-07 21:54:48 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'store_url' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 323
+2025-04-07 21:54:48 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'store_url' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 323
+2025-04-07 21:54:48 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'store_url' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 323
+2025-04-07 21:54:48 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'store_url' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 323
+2025-04-07 21:55:21 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'fax' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 323
+2025-04-07 21:55:21 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'fax' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 323
+2025-04-07 21:55:21 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'fax' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 323
+2025-04-07 21:55:21 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'fax' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 323
+2025-04-07 21:55:52 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'payment_firstname' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 323
+2025-04-07 21:55:52 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'payment_firstname' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 323
+2025-04-07 21:55:52 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'payment_firstname' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 323
+2025-04-07 21:55:52 - PHP Warning:  mysqli::query(): (HY000/1364): Field 'payment_firstname' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 323
