@@ -145,3 +145,74 @@
 2025-04-07 18:46:35 - PHP Warning:  mysqli_stmt::execute(): (HY000/1364): Field 'payment_firstname' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 262
 2025-04-07 18:47:17 - PHP Warning:  mysqli_stmt::execute(): (HY000/1364): Field 'payment_lastname' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 263
 2025-04-07 18:47:40 - PHP Warning:  mysqli_stmt::execute(): (HY000/1364): Field 'payment_company' doesn't have a default value in D:\OSPanel\home\retail.local\public\system\library\retailcrm\cron\history.php on line 264
+2025-04-07 19:57:22 - PHP Warning:  Undefined array key "delivery_date" in D:\OSPanel\home\retail.local\public\catalog\model\checkout\order.php on line 39
+2025-04-07 19:57:22 - PHP Warning:  Undefined array key "delivery_time" in D:\OSPanel\home\retail.local\public\catalog\model\checkout\order.php on line 39
+2025-04-07 19:57:22 - PHP Warning:  mysqli::query(): (42000/1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', delivery_time =,
+		 callback_required =0' at line 35 in D:\OSPanel\home\retail.local\public\system\library\db\mysqli.php on line 25
+2025-04-07 20:10:19 - PHP Unknown:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in D:\OSPanel\home\retail.local\public\admin\controller\sale\order.php on line 234
+2025-04-07 20:10:31 - PHP Unknown:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in D:\OSPanel\home\retail.local\public\admin\controller\sale\order.php on line 234
+2025-04-07 20:10:35 - PHP Unknown:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in D:\OSPanel\home\retail.local\public\admin\controller\sale\order.php on line 234
+2025-04-07 20:23:15 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:23:15 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 362
+2025-04-07 20:23:15 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:23:15 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 362
+2025-04-07 20:23:15 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:23:15 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 362
+2025-04-07 20:23:15 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:23:15 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 362
+2025-04-07 20:23:15 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:23:15 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 362
+2025-04-07 20:23:15 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:23:15 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 362
+2025-04-07 20:23:15 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:23:15 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 362
+2025-04-07 20:23:15 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:23:15 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 362
+2025-04-07 20:26:38 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:26:38 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 362
+2025-04-07 20:26:38 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:26:38 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 362
+2025-04-07 20:26:38 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:26:38 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 362
+2025-04-07 20:26:38 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:26:38 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 362
+2025-04-07 20:26:38 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:26:38 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 362
+2025-04-07 20:26:38 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:26:38 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 362
+2025-04-07 20:26:38 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:26:38 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 362
+2025-04-07 20:26:38 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:26:38 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 362
+2025-04-07 20:30:13 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:30:13 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 362
+2025-04-07 20:30:13 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:30:13 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 362
+2025-04-07 20:30:13 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:30:13 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 362
+2025-04-07 20:30:13 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:30:13 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 362
+2025-04-07 20:30:13 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:30:13 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 362
+2025-04-07 20:30:13 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:30:13 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 362
+2025-04-07 20:30:13 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:30:13 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 362
+2025-04-07 20:30:13 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:30:13 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 362
+2025-04-07 20:31:14 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 344
+2025-04-07 20:31:14 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:31:14 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 344
+2025-04-07 20:31:14 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:31:14 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 344
+2025-04-07 20:31:14 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:31:14 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 344
+2025-04-07 20:31:14 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:31:14 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 344
+2025-04-07 20:31:14 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:31:14 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 344
+2025-04-07 20:31:14 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:31:14 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 344
+2025-04-07 20:31:14 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
+2025-04-07 20:31:14 - PHP Warning:  Undefined array key "volume" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 344
+2025-04-07 20:31:14 - PHP Warning:  Undefined array key "color" in D:\OSPanel\home\retail.local\public\admin\model\extension\retailcrm\icml.php on line 353
