@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-04-07 20:31:14">
+  <shop>
+    <name>Интернет магазин Русский Opencart 3х</name>
+    <categories>
+      <category id="59">
+        <name>1</name>
+      </category>
+    </categories>
+    <offers>
+      <offer id="50" productId="50" quantity="100" type="product">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <productName>1</productName>
+        <name>1</name>
+        <price>50</price>
+        <dimensions>5.000/80.000/7.000</dimensions>
+        <url>https://retail.local/index.php?route=product/product&amp;product_id=50</url>
+        <weight>80</weight>
+      </offer>
+      <offer id="51" productId="51" quantity="100" type="product">
+        <productActivity>N</productActivity>
+        <productName>1</productName>
+        <name>1</name>
+        <price>50</price>
+        <url>https://retail.local/index.php?route=product/product&amp;product_id=51</url>
+        <weight>0</weight>
+      </offer>
+      <offer id="52" productId="52" quantity="100" type="product">
+        <productActivity>N</productActivity>
+        <productName>1</productName>
+        <name>1</name>
+        <price>50</price>
+        <url>https://retail.local/index.php?route=product/product&amp;product_id=52</url>
+        <weight>0</weight>
+      </offer>
+      <offer id="53" productId="53" quantity="100" type="product">
+        <productActivity>N</productActivity>
+        <productName>1</productName>
+        <name>1</name>
+        <price>50</price>
+        <url>https://retail.local/index.php?route=product/product&amp;product_id=53</url>
+        <weight>0</weight>
+      </offer>
+      <offer id="54" productId="54" quantity="100" type="product">
+        <productActivity>N</productActivity>
+        <productName>1</productName>
+        <name>1</name>
+        <price>50</price>
+        <url>https://retail.local/index.php?route=product/product&amp;product_id=54</url>
+        <weight>0</weight>
+      </offer>
+      <offer id="55" productId="55" quantity="100" type="product">
+        <productActivity>N</productActivity>
+        <productName>1</productName>
+        <name>1</name>
+        <price>50</price>
+        <url>https://retail.local/index.php?route=product/product&amp;product_id=55</url>
+        <weight>0</weight>
+      </offer>
+      <offer id="56" productId="56" quantity="100" type="product">
+        <productActivity>N</productActivity>
+        <productName>1</productName>
+        <name>1</name>
+        <price>50</price>
+        <url>https://retail.local/index.php?route=product/product&amp;product_id=56</url>
+        <weight>0</weight>
+      </offer>
+      <offer id="57" productId="57" quantity="100" type="product">
+        <productActivity>N</productActivity>
+        <productName>1</productName>
+        <name>1</name>
+        <price>50</price>
+        <url>https://retail.local/index.php?route=product/product&amp;product_id=57</url>
+        <weight>0</weight>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>

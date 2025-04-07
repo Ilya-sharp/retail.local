@@ -1,0 +1,50 @@
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h4 class="panel-title">{{ heading_title }}</h4>
+    </div>
+    <div class="panel-body">
+        <!-- Поле даты доставки -->
+        <div class="form-group required">
+            <label class="control-label" for="input-delivery-date">{{ delivery_date.label }}</label>
+            <div class="input-group date">
+                <input type="text" name="{{ delivery_date.name }}" value="" placeholder="{{ delivery_date.placeholder }}" id="input-delivery-date" class="form-control" />
+                <span class="input-group-btn">
+          <button type="button" class="btn btn-default"><i class="fa fa-calendar"></i></button>
+        </span>
+            </div>
+        </div>
+
+        <!-- Поле времени доставки -->
+        <div class="form-group required">
+            <label class="control-label" for="input-delivery-time">{{ delivery_time.label }}</label>
+            <select name="{{ delivery_time.name }}" id="input-delivery-time" class="form-control">
+                <option value="">{{ text_select }}</option>
+                {% for key, option in delivery_time.options %}
+                    <option value="{{ key }}">{{ option }}</option>
+                {% endfor %}
+            </select>
+        </div>
+
+        <!-- Чекбокс созвона -->
+        <div class="form-group">
+            <div class="checkbox">
+                <label>
+                    <input type="checkbox" name="{{ callback_required.name }}" value="1" {% if callback_required.checked %}checked="checked"{% endif %} />
+                    {{ callback_required.label }}
+                </label>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function() {
+        // Инициализация datepicker
+        $('.date').datetimepicker({
+            format: 'YYYY-MM-DD',
+            minDate: new Date(),
+            daysOfWeekDisabled: [0, 6], // Отключение выходных
+            locale: 'ru'
+        });
+    });
+</script>

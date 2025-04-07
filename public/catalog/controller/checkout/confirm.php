@@ -321,6 +321,26 @@ class ControllerCheckoutConfirm extends Controller {
 
 			$this->load->model('checkout/order');
 
+
+
+// Перед вызовом $this->model_checkout_order->addOrder($order_data);
+            if (isset($this->request->post['delivery_date'])) {
+                $order_data['delivery_date'] = $this->request->post['delivery_date'];
+            }
+
+            if (isset($this->request->post['delivery_time'])) {
+                $order_data['delivery_time'] = $this->request->post['delivery_time'];
+            }
+
+            if (isset($this->request->post['callback_required'])) {
+                $order_data['callback_required'] = (int)$this->request->post['callback_required'];
+            } else {
+                $order_data['callback_required'] = 0;
+            }
+
+
+
+
 			$this->session->data['order_id'] = $this->model_checkout_order->addOrder($order_data);
 
 			$this->load->model('tool/upload');
