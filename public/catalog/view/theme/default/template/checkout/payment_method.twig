@@ -22,6 +22,7 @@
 <p>
   <textarea name="comment" rows="8" class="form-control">{{ comment }}</textarea>
 </p>
+
 {% if text_agree %}
 <div class="buttons">
   <div class="pull-right">{{ text_agree }}
@@ -40,4 +41,5 @@
     <input type="button" value="{{ button_continue }}" id="button-payment-method" data-loading-text="{{ text_loading }}" class="btn btn-primary" />
   </div>
 </div>
+
 {% endif %} 
