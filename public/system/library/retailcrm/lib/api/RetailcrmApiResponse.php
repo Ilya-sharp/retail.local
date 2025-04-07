@@ -39,6 +39,7 @@ class RetailcrmApiResponse implements ArrayAccess
      *
      * @return int
      */
+    #[\ReturnTypeWillChange]
     public function getStatusCode()
     {
         return $this->statusCode;
@@ -103,6 +104,7 @@ class RetailcrmApiResponse implements ArrayAccess
      * @throws \BadMethodCallException
      * @return void
      */
+    #[\ReturnTypeWillChange]
     public function offsetSet($offset, $value)
     {
         throw new \BadMethodCallException('This activity not allowed');
@@ -116,6 +118,7 @@ class RetailcrmApiResponse implements ArrayAccess
      * @throws \BadMethodCallException
      * @return void
      */
+    #[\ReturnTypeWillChange]
     public function offsetUnset($offset)
     {
         throw new \BadMethodCallException('This call not allowed');
@@ -128,6 +131,7 @@ class RetailcrmApiResponse implements ArrayAccess
      *
      * @return bool
      */
+    #[\ReturnTypeWillChange]
     public function offsetExists($offset)
     {
         return isset($this->response[$offset]);
@@ -142,6 +146,7 @@ class RetailcrmApiResponse implements ArrayAccess
      *
      * @return mixed
      */
+    #[\ReturnTypeWillChange]
     public function offsetGet($offset)
     {
         if (!isset($this->response[$offset])) {
